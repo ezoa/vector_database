@@ -7,7 +7,7 @@ from langchain_community.vectorstores import Weaviate
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 # Identify PDFs to Load
 
 pdf1 = "George Ugwu CV.pdf"
